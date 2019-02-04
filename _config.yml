@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Artem Betlei"
   avatar           : "avatar.jpg"
-  bio              : "PhD student at Criteo AI lab"
+  bio              : "PhD student"
   location         : "Grenoble, France"
-  employer         : "Criteo"
+  employer         : "Criteo AI Lab"
   googlescholar    : "https://scholar.google.com/citations?user=iW5JZvwAAAAJ&hl=en&authuser=1"
   email            : "a.betlei@criteo.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
