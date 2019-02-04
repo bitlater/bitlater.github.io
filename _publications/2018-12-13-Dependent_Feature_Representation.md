@@ -1,7 +1,7 @@
 ---
 title: "Uplift Prediction with Dependent Feature Representation in Imbalanced Treatment and Control Conditions"
 collection: publications
-permalink: /publication/2018-12-13-Dependent_Feature_Representation.md
+permalink: /publication/2018-12-13-Dependent_Feature_Representation
 excerpt: 'This paper is about new methods of uplift prediction which are based on ideas of transfer and multi-task learning.'
 date: 2018-12-13
 venue: 'International Conference on Neural Information Processing'
