@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Artem Betlei"
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   bio              : "PhD student"
   location         : "Grenoble, France"
   employer         : "Criteo AI Lab"
