@@ -12,4 +12,4 @@ My name is Artem, currently I am CIFRE PhD student at **[Criteo AI lab](http://a
 
 My areas of interest are machine and deep learning, data analysis. During the PhD I do research in uplift prediction and counterfactual learning for digital advertising. Previously I also worked on applications of machine and deep learning approaches for problems on natural language processing (text classification) and computer vision (style transfer, image segmentation).
 
-Here I blog about curious things I encounter while reading books or while on the internet. These are things mostly related to the topics mentioned above.
+Here I blog about curious things I encounter while reading papers, books or while on the internet. These are things mostly related to the topics mentioned above.
