@@ -21,18 +21,22 @@ Work experience
 * 2014-2017: Marketer & Data Analyst
   * **[Rocketbank](http://rocketbank.ru)**
   * Targeted advertising in social networks and development of customer churn prediction model
+  * Managers: Alexey Kolesnikov, Vasiliy Khozyainov 
 
 * 2015-2016: Bachelor Student Researcher
   * **[ISPRAS](http://ispras.ru)**
   * Development of model of marital status prediction of social network users (bachelor thesis)
+  * Supervisor: Anton Korshunov
   
 * 2016-2018: Data Scientist
   * **[Prisma Labs](https://prisma-ai.com)**
   * Research and development of image segmentation and style transfer projects
+  * Supervisor: Tom Semyanov
   
 * 2018: Research Intern
-  * **[Criteo](http://criteo.com)**
+  * **[Criteo](http://criteo.com)** and **[AMA LIG](http://ama.liglab.fr)**
   * Research uplift prediction and counterfactual learning topics
+  * Supervisors: Eustache Diemert (Criteo), Massih-Reza Amini (AMA LIG)
   
 Skills
 ======
