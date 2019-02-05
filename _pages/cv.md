@@ -11,30 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics and Physics, MIPT, Russia, 2016
+* M.S. in Applied Mathematics and Physics, MIPT, Russia, 2018
+* M.S. in Industrial and Applied Mathematics, Frenoble INP (Ensimag), France, 2018
+* Ph.D in Uplift prediction and Counterfactual learning, Criteo AI Lab and AMA LIG, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014-2017: Marketer & Data Analyst
+  * **[Rocketbank](http://rocketbank.ru)**
+  * Targeted advertising in social networks and development of customer churn prediction model
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015-2016: Bachelor Student Researcher
+  * **[ISPRAS](http://ispras.ru)**
+  * Development of model of marital status prediction of social network users (bachelor thesis)
+  
+  * 2016-2018: Data Scientist
+  * **[Prisma Labs](https://prisma-ai.com)**
+  * Research and development of image segmentation and style transfer projects
+  
+  * 2018: Research Intern
+  * **[Criteo](http://criteo.com)**
+  * Research uplift prediction and counterfactual learning topics
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+languages
+  * Python
+  * R
+* Science software
+  * Jupyter Notebook
+  * Atom
+  * RStudio
+  * LaTeX
+* Tools
+  * Numpy
+  * Scipy
+  * Pandas
+  * Matplotlib
+  * Scikit-learn
+  * Tensorflow
+  * Keras
+  * Amazon MTurk
 
 Publications
 ======
@@ -42,18 +61,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Communication and leadership
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Took a place in a variety of song and dance festivals
+* Taught mathematics and physics in a center of intellectual development for > 20 children 10-15
+years old
+* Supervised first-year students
