@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Applied Mathematics and Physics, MIPT, Russia, 2016
 * M.S. in Applied Mathematics and Physics, MIPT, Russia, 2018
-* M.S. in Industrial and Applied Mathematics, Frenoble INP (Ensimag), France, 2018
+* M.S. in Industrial and Applied Mathematics, Grenoble INP (Ensimag), France, 2018
 * Ph.D in Uplift prediction and Counterfactual learning, Criteo AI Lab and AMA LIG, 2021 (expected)
 
 Work experience
