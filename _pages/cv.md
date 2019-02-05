@@ -26,11 +26,11 @@ Work experience
   * **[ISPRAS](http://ispras.ru)**
   * Development of model of marital status prediction of social network users (bachelor thesis)
   
-  * 2016-2018: Data Scientist
+* 2016-2018: Data Scientist
   * **[Prisma Labs](https://prisma-ai.com)**
   * Research and development of image segmentation and style transfer projects
   
-  * 2018: Research Intern
+* 2018: Research Intern
   * **[Criteo](http://criteo.com)**
   * Research uplift prediction and counterfactual learning topics
   
